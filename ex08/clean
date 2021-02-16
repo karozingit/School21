@@ -1,1 +1,1 @@
-Find path -type f -name "*.~" -delete
+Find path -type f -name "*.~" -o -name "#.#" -delete
