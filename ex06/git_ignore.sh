@@ -1,1 +1,1 @@
-git check-ignore  /Users/pware/shell00/
+git ls-files -i --exclude-standard -o
